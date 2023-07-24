@@ -1,6 +1,6 @@
 # Advice Giver Web App :crystal_ball:
 
-![Advice Giver Logo](link_to_logo.png)
+
 
 ## Overview :clipboard:
 
@@ -15,13 +15,13 @@ The Advice Giver Web App is a fun and interactive application built with React t
 
 ## Demo :tv:
 
-[Link to live demo](https://your-advice-giver-app.com)
+[Link to live demo](https://advice-giving.netlify.app)
 
 ## Screenshots :camera:
 
-![Screenshot 1](link_to_screenshot_1.png)
-![Screenshot 2](link_to_screenshot_2.png)
-![Screenshot 3](link_to_screenshot_3.png)
+![Screenshot 1](https://github.com/anshu787/Advice-Giver/blob/master/ss/advice.png)
+![Screenshot 2](https://github.com/anshu787/Advice-Giver/blob/master/ss/advice1.png)
+![Screenshot 3](https://github.com/anshu787/Advice-Giver/blob/master/ss/advice2.png)
 
 ## Installation :computer:
 
